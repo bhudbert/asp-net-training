@@ -1,0 +1,13 @@
+D:\Formations\ENI\ASP.NET\Module_2_TP_1\bin\Debug\netcoreapp3.1\Module_2_TP_1.exe
+D:\Formations\ENI\ASP.NET\Module_2_TP_1\bin\Debug\netcoreapp3.1\Module_2_TP_1.deps.json
+D:\Formations\ENI\ASP.NET\Module_2_TP_1\bin\Debug\netcoreapp3.1\Module_2_TP_1.runtimeconfig.json
+D:\Formations\ENI\ASP.NET\Module_2_TP_1\bin\Debug\netcoreapp3.1\Module_2_TP_1.runtimeconfig.dev.json
+D:\Formations\ENI\ASP.NET\Module_2_TP_1\bin\Debug\netcoreapp3.1\Module_2_TP_1.dll
+D:\Formations\ENI\ASP.NET\Module_2_TP_1\bin\Debug\netcoreapp3.1\Module_2_TP_1.pdb
+D:\Formations\ENI\ASP.NET\Module_2_TP_1\obj\Debug\netcoreapp3.1\Module_2_TP_1.csprojAssemblyReference.cache
+D:\Formations\ENI\ASP.NET\Module_2_TP_1\obj\Debug\netcoreapp3.1\Module_2_TP_1.AssemblyInfoInputs.cache
+D:\Formations\ENI\ASP.NET\Module_2_TP_1\obj\Debug\netcoreapp3.1\Module_2_TP_1.AssemblyInfo.cs
+D:\Formations\ENI\ASP.NET\Module_2_TP_1\obj\Debug\netcoreapp3.1\Module_2_TP_1.csproj.CoreCompileInputs.cache
+D:\Formations\ENI\ASP.NET\Module_2_TP_1\obj\Debug\netcoreapp3.1\Module_2_TP_1.dll
+D:\Formations\ENI\ASP.NET\Module_2_TP_1\obj\Debug\netcoreapp3.1\Module_2_TP_1.pdb
+D:\Formations\ENI\ASP.NET\Module_2_TP_1\obj\Debug\netcoreapp3.1\Module_2_TP_1.genruntimeconfig.cache
